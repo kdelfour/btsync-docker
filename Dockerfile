@@ -19,7 +19,7 @@ RUN mkdir -p /btsync/.sync
 RUN ln -s /btsync/.sync /data 
 RUN mkdir -p /var/run/btsync
 
-ADD btsync.conf /btsync/
+ADD conf/btsync.conf /btsync/
 # ------------------------------------------------------------------------------
 # Expose ports.
 EXPOSE 80
