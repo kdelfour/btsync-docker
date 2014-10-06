@@ -1,0 +1,4 @@
+btsync-docker
+=============
+
+BTSync Dockerfile
