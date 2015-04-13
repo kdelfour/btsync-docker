@@ -4,7 +4,7 @@ BTSync Dockerfile
 This repository contains Dockerfile of BTSync for Docker's automated build published to the public Docker Hub Registry.
 
 # Base Docker Image
-[dockerfile/supervisor](https://registry.hub.docker.com/u/dockerfile/supervisor/)
+[kdelfour/supervisor-docker](https://registry.hub.docker.com/u/kdelfour/supervisor-docker/)
 
 # Installation
 
